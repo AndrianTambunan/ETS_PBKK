@@ -5,7 +5,7 @@
                 <div class="p-6 text-gray-900 dark:text-gray-100">
                 
                     <div class="form">
-                        <h1 class="text-xl font-bold">Product Details</h1>
+                        <h1 class="text-xl font-bold">Product Detail</h1>
 
                         <div class="row">
                             <div class="my-5 col-xs-12 col-sm-12 col-md-12">
